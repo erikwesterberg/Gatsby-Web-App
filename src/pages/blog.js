@@ -1,10 +1,11 @@
-import React from 'react';
+import React from "react";
+import Layout from "../components/Layout";
 
 const BlogPage = () => (
-  <div>
+  <Layout>
     <h1>My blog</h1>
     <p>Maybe some posts here</p>
-  </div>
+  </Layout>
 )
 
 export default BlogPage;

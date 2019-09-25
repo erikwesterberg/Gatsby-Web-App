@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
+
 const Header = () => (
   <header>
     <h1>ERKISH GATSBY</h1>
