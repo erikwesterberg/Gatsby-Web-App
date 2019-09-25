@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: "Full-stack-Development",
+    title: "Full-stack Developer!",
     author: "Erik Westerberg"
   },
 
