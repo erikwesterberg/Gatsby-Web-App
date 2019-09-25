@@ -1,13 +1,17 @@
 import React from "react";
-import { Link } from 'gatsby'
-import Layout from '../components/Layout';
+import { Link } from "gatsby";
+import Layout from "../components/Layout";
 
 const IndexPage = () => (
-  
-    <Layout>
-      <h1>Hello</h1>
-      <h2>I'm erik, a full stack developer from sunny Stockholm.</h2>
-      <p>Need a developer?<Link to="/contact">Contact me.</Link></p>
-    </Layout>
+  <Layout>
+    <h1>YO!</h1>
+    <h2>
+      I'm Erik, I love software development and my dog.. Also my Girlfriend.
+    </h2>
+    <p>
+      Need a happy and motivated developer?
+      <Link to="/contact">Contact me.</Link>
+    </p>
+  </Layout>
 )
 export default IndexPage;
