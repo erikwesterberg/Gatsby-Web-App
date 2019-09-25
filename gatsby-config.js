@@ -7,7 +7,7 @@
 module.exports = {
   siteMetadata: {
     title: "Full-stack Developer!",
-    author: "Erik Westerberg"
+    author: "Erka"
   },
 
   plugins: ["gatsby-plugin-sass"]
