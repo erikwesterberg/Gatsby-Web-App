@@ -1,5 +1,5 @@
 ---
-title: "The Great Gatsby",
+title: "The Great Gatsby"
 date: "2019-09-20"
 ---
 

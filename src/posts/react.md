@@ -1,5 +1,5 @@
 ---
-title: "The highest component, React",
+title: "The highest component, React"
 date: "2019-09-26"
 ---
 
